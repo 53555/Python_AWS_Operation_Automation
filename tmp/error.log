@@ -1,0 +1,9 @@
+None
+None
+An error occurred (InvalidBucketName) when calling the CreateBucket operation: The specified bucket is not valid.
+None
+None
+None
+An error occurred (InvalidBucketName) when calling the CreateBucket operation: The specified bucket is not valid.
+An error occurred (InvalidBucketName) when calling the CreateBucket operation: The specified bucket is not valid.
+An error occurred (IllegalLocationConstraintException) when calling the CreateBucket operation: The us-west-1 location constraint is incompatible for the region specific endpoint this request was sent to.
